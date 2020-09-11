@@ -135,7 +135,7 @@ function clickListItem(listClass, index) {
 $(document).ready(function() {
 	/* init */
 	$('select').formSelect();
-	$('.modal-trigger').Modal();
+	$('.modal-trigger').leanModal();
 	$('.tooltipped').tooltip({delay: 10});
 
 	/* for a single report item, hide sidenav */
