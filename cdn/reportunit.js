@@ -134,7 +134,7 @@ function clickListItem(listClass, index) {
 
 $(document).ready(function() {
 	/* init */
-	$('select').formSelect();
+	$('select').material_select();
 	$('.modal-trigger').leanModal();
 	$('.tooltipped').tooltip({delay: 10});
 
