@@ -319,7 +319,7 @@ namespace ReportUnit.Templates
                         <div class='hidden total-errors'><!--%ERRORS%--></div>
                         <div class='hidden total-skipped'><!--%SKIPPED%--></div>
                     </div>
-                    <div id='dynamicModal' class='modal modal-trigger' in_duration='0' induration='0'>
+                    <div id='dynamicModal' class='modal' in_duration='0' induration='0'>
                         <div class='modal-content'>
                             <h4></h4>
                             <pre></pre>
